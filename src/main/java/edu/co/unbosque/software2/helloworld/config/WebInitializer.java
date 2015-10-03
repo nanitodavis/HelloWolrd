@@ -18,7 +18,8 @@ import javax.servlet.ServletRegistration.Dynamic;
 import org.springframework.web.WebApplicationInitializer;  
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;  
 import org.springframework.web.servlet.DispatcherServlet;  
-  
+ 
+//hihi
 public class WebInitializer implements WebApplicationInitializer {
     
     @Override
